@@ -4,7 +4,7 @@ In this project, we providing a Linux environment with Vagrant, where the Docker
 
 Inside the Docker container we're hosting a webpage by nginx.
 
-The webserver's root folder is the website shared folder, and you can modify it's content from the host and  guest too.
+The webserver's root folder is the *website* shared folder, and you can modify it's content from the host and  guest too.
 
 !!!On linux system, you may have to change in the Vagratnfile the hosts port from 80 to something higher than 1024!!!
 
